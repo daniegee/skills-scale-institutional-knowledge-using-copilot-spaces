@@ -36,3 +36,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Roles & Checklists
+- **Deployment Coordinator** — owns release and deployment activities. See [Roles & Personas](octoacme-roles-and-personas.md#deployment-coordinator).
+- **Risk Manager** — reviews release-specific risks before each deployment. See [Roles & Personas](octoacme-roles-and-personas.md#risk-manager).
+- **Stakeholder Liaison** — coordinates stakeholder notifications for releases. See [Roles & Personas](octoacme-roles-and-personas.md#stakeholder-liaison).
+- [Release Readiness Checklist](checklists/release-readiness-checklist.md) — use this checklist to confirm all teams are ready before each deployment.

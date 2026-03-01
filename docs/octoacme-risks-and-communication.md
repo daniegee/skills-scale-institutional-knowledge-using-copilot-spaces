@@ -40,3 +40,10 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Related Roles & Templates
+- **Risk Manager** — owns the risk register and facilitates risk reviews. See [Roles & Personas](octoacme-roles-and-personas.md#risk-manager).
+- **Stakeholder Liaison** — owns stakeholder communication planning. See [Roles & Personas](octoacme-roles-and-personas.md#stakeholder-liaison).
+- **Communication Lead** — owns the communication plan and status updates. See [Roles & Personas](octoacme-roles-and-personas.md#communication-lead).
+- [Risk Register Template](templates/risk-register.md) — use this template to track and manage risks.
+- [Stakeholder Communication Plan Template](templates/stakeholder-comms-plan.md) — use this template to map stakeholders and define communication cadence.

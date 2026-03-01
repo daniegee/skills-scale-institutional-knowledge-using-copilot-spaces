@@ -31,3 +31,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Related Roles & Templates
+- **Process Improvement Champion** — owns the improvement log and drives continuous improvement initiatives. See [Roles & Personas](octoacme-roles-and-personas.md#process-improvement-champion).
+- [Process Improvement Log Template](templates/process-improvement-log.md) — use this template to track improvement opportunities, decisions, and outcomes across sprints and releases.
